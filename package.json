@@ -1,0 +1,22 @@
+{
+  "name": "players",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx eslint --fix . && rm -rf dist && tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "@types/node": "^24.2.1",
+    "eslint": "^9.33.0",
+    "globals": "^16.3.0",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.39.0"
+  }
+}
