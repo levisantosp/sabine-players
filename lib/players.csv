@@ -371,16 +371,16 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 370,Sylvan,Masters Bangkok 2025,t1,kr,controller,95.94,82.6,90.4,82.65,87.03,96.1,false
 371,BuZz,Masters Bangkok 2025,t1,kr,duelist,98.42,80.8,90.8,94.95,89.6,88.4,false
 372,iZu,Masters Bangkok 2025,t1,kr,flex,97.4,84.0,85.6,81.55,86.7,95.7,false
-373,jonhqt,Champions 2024,sentinels,ma,sentinel,83.98,79.26,80.50,85.60,80.90,84.70,true
-374,Sacy,Champions 2024,sentinels,us,initiator,79.84,74.48,76.95,79.40,76.43,93.10,true
-375,TenZ,Champions 2024,sentinels,us,controller,86.84,84.08,76.00,86.80,82.10,77.70,true
-376,Zellsis,Champions 2024,sentinels,us,flex,75.60,72.00,79.80,82.20,81.10,85.90,true
-377,zekken,Champions 2024,sentinels,us,duelist,88.26,84.02,87.90,89.80,86.63,75.60,true
-378,Mazino,Champions 2024,leviatan,cl,flex,86.92,73.44,84.95,79.50,81.63,86.10,true
-379,aspas,Champions 2024,leviatan,br,duelist,94.88,79.16,90.75,88.00,91.77,84.00,true
-380,tex,Champions 2024,leviatan,de,sentinel,86.28,79.56,86.00,78.40,84.00,83.90,true
-381,C0M,Champions 2024,leviatan,us,initiator,78.82,69.54,71.70,74.70,76.40,85.60,true
-382,kiNgg,Champions 2024,leviatan,cl,controller,85.70,83.70,84.65,79.70,85.30,89.10,true
+373,jonhqt,Champions 2024,sentinels,ma,sentinel,83.98,79.26,80.50,85.60,80.90,84.70,false
+374,Sacy,Champions 2024,sentinels,us,initiator,79.84,74.48,76.95,79.40,76.43,93.10,false
+375,TenZ,Champions 2024,sentinels,us,controller,86.84,84.08,76.00,86.80,82.10,77.70,false
+376,Zellsis,Champions 2024,sentinels,us,flex,75.60,72.00,79.80,82.20,81.10,85.90,false
+377,zekken,Champions 2024,sentinels,us,duelist,88.26,84.02,87.90,89.80,86.63,75.60,false
+378,Mazino,Champions 2024,leviatan,cl,flex,86.92,73.44,84.95,79.50,81.63,86.10,false
+379,aspas,Champions 2024,leviatan,br,duelist,94.88,79.16,90.75,88.00,91.77,84.00,false
+380,tex,Champions 2024,leviatan,de,sentinel,86.28,79.56,86.00,78.40,84.00,83.90,false
+381,C0M,Champions 2024,leviatan,us,initiator,78.82,69.54,71.70,74.70,76.40,85.60,false
+382,kiNgg,Champions 2024,leviatan,cl,controller,85.70,83.70,84.65,79.70,85.30,89.10,false
 383,Boo,Champions 2024,heretics,lt,controller,86.34,85.78,85.70,77.10,82.60,92.70,false
 384,MiniBoo,Champions 2024,heretics,lt,duelist,90.52,81.64,88.10,91.00,89.60,78.80,false
 385,Wo0t,Champions 2024,heretics,tr,flex,93.12,89.44,86.95,88.40,84.33,81.90,false
