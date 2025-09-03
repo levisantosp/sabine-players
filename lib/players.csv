@@ -270,7 +270,7 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 269,Mistic,BASE,fokus,gb,controller,71.28,76.96,62.65,62.00,64.90,72.80,true
 270,al0rante,BASE,fokus,de,sentinel,63.26,70.62,55.05,61.20,58.30,58.20,true
 271,xuss,BASE,fokus,pl,duelist,68.60,65.00,54.10,79.20,59.20,55.50,true
-272,Unfair,BASE,no_team,de,duelist,61.86,87.62,59.80,56.40,56.70,59.10,true
+272,Unfair,BASE,alternate,de,initiator,61.86,87.62,59.80,56.40,56.70,59.10,true
 273,Kuba,BASE,fokus,de,initiator,62.64,64.48,52.65,49.00,58.40,65.20,true
 274,iluri,BASE,mouz,fi,initiator,62.52,81.64,51.70,47.50,51.23,65.60,true
 275,bipo,BASE,mouz,it,duelist,62.88,71.76,55.05,78.90,56.50,55.40,true
