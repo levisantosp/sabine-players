@@ -286,11 +286,11 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 285,Sevire,BASE,kc,nl,flex,66.56,65.52,55.05,65.40,54.17,62.90,true
 286,ease,BASE,kc,es,controller,61.26,64.22,58.85,44.10,53.63,58.30,true
 287,soren,BASE,kc,fr,sentinel,61.74,83.98,54.10,68.70,53.57,57.30,true
-288,PatMen,Masters Toronto 2025,prx,ph,initiator,85.16,94.4,82.4,87.95,88.33,96.5,false
-289,Jinggg,Masters Toronto 2025,prx,sg,duelist,95.26,89.4,93.2,97.9,93.83,82.6,false
-290,f0rsakeN,Masters Toronto 2025,prx,id,flex,97.36,94.4,97.2,92.9,95.9,97,false
-291,d4v41,Masters Toronto 2025,prx,my,sentinel,94.12,94.8,92.0,88.55,91.7,94.4,false
-292,something,Masters Toronto 2025,prx,ru,duelist,96.14,92.6,95.6,93.9,95.93,80.3,false
+288,PatMen,Masters Toronto 2025,prx,ph,initiator,85.16,94.4,82.4,87.95,88.33,96.5,true
+289,Jinggg,Masters Toronto 2025,prx,sg,duelist,95.26,89.4,93.2,97.9,93.83,82.6,true
+290,f0rsakeN,Masters Toronto 2025,prx,id,flex,97.36,94.4,97.2,92.9,95.9,97,true
+291,d4v41,Masters Toronto 2025,prx,my,sentinel,94.12,94.8,92.0,88.55,91.7,94.4,true
+292,something,Masters Toronto 2025,prx,ru,duelist,96.14,92.6,95.6,93.9,95.93,80.3,true
 293,MOLSI,BASE,apeks,pl,initiator,69.04,69.68,70.75,63.10,74.47,74.60,true
 294,OLIZERA,BASE,apeks,pt,sentinel,72.34,60.58,75.05,71.80,72.97,64.80,true
 295,AvovA,BASE,apeks,dk,controller,76.70,71.50,81.70,61.40,62.67,76.20,true
@@ -366,51 +366,51 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 365,Wildfire,BASE,mu,ua,initiator,55.58,58.2,54.4,46.1,66.7,61.28,true
 366,Ange,BASE,mu,ca,controller,55.81,53.2,50.72,47.95,58.56,58.8,true
 367,geeza,BASE,mu,us,sentinel,61.12,62.8,57.04,66.55,60.38,48.72,true
-368,stax,Masters Bangkok 2025,t1,kr,initiator,90.76,91.4,87.6,80.65,84.97,98.9,false
-369,Meteor,Masters Bangkok 2025,t1,kr,sentinel,100,93.4,90.4,82.15,97.27,92.6,false
-370,Sylvan,Masters Bangkok 2025,t1,kr,controller,95.94,82.6,90.4,82.65,87.03,96.1,false
-371,BuZz,Masters Bangkok 2025,t1,kr,duelist,98.42,80.8,90.8,94.95,89.6,88.4,false
-372,iZu,Masters Bangkok 2025,t1,kr,flex,97.4,84.0,85.6,81.55,86.7,95.7,false
-373,jonhqt,Champions 2024,sentinels,ma,sentinel,83.98,79.26,80.50,85.60,80.90,84.70,false
-374,Sacy,Champions 2024,sentinels,us,initiator,79.84,74.48,76.95,79.40,76.43,93.10,false
-375,TenZ,Champions 2024,sentinels,us,controller,86.84,84.08,76.00,86.80,82.10,77.70,false
-376,Zellsis,Champions 2024,sentinels,us,flex,75.60,72.00,79.80,82.20,81.10,85.90,false
-377,zekken,Champions 2024,sentinels,us,duelist,88.26,84.02,87.90,89.80,86.63,75.60,false
-378,Mazino,Champions 2024,leviatan,cl,flex,86.92,73.44,84.95,79.50,81.63,86.10,false
-379,aspas,Champions 2024,leviatan,br,duelist,94.88,79.16,90.75,88.00,91.77,84.00,false
-380,tex,Champions 2024,leviatan,de,sentinel,86.28,79.56,86.00,78.40,84.00,83.90,false
-381,C0M,Champions 2024,leviatan,us,initiator,78.82,69.54,71.70,74.70,76.40,85.60,false
-382,kiNgg,Champions 2024,leviatan,cl,controller,85.70,83.70,84.65,79.70,85.30,89.10,false
-383,Boo,Champions 2024,heretics,lt,controller,86.34,85.78,85.70,77.10,82.60,92.70,false
-384,MiniBoo,Champions 2024,heretics,lt,duelist,90.52,81.64,88.10,91.00,89.60,78.80,false
-385,Wo0t,Champions 2024,heretics,tr,flex,93.12,89.44,86.95,88.40,84.33,81.90,false
-386,RieNs,Champions 2024,heretics,tr,initiator,86.62,82.94,86.95,86.90,85.00,88.90,false
-387,benjyfishy,Champions 2024,heretics,england,sentinel,89.70,81.90,87.90,85.50,88.87,88.80,false
-388,nobody,Champions 2024,edg,cn,initiator,87.22,93.18,89.80,82.30,80.30,99.00,false
-389,ZmjjKK,Champions 2024,edg,cn,duelist,105.62,94.34,98.20,97.50,98.10,89.90,false
-390,CHICHOO,Champions 2024,edg,cn,sentinel,95.48,98.76,92.65,92.60,93.37,95.90,false
-391,Smoggy,Champions 2024,edg,cn,controller,93.52,96.64,90.90,87.00,90.03,94.40,false
-392,S1Mon,Champions 2024,edg,cn,flex,88.14,93.18,88.85,91.80,83.10,90.80,false
-393,Boostio,Masters Shanghai 2024,100t,us,sentinel,78.68,79.16,74.10,75.10,83.23,91.80,false
-394,zander,Masters Shanghai 2024,100t,ca,controller,82.94,73.18,80.75,78.90,79.60,90.80,false
-395,Cryo,Masters Shanghai 2024,100t,us,duelist,87.30,81.10,82.80,86.50,84.47,79.30,false
-396,eeiu,Masters Shanghai 2024,100t,ca,initiator,80.98,77.06,78.65,80.80,81.07,83.10,false
-397,Asuna,Masters Shanghai 2024,100t,us,flex,83.18,74.86,79.15,88.40,78.03,76.50,false
-398,valyn,Masters Shanghai 2024,g2,us,controller,85.86,78.10,80.85,82.50,80.87,93.30,false
-399,icy,Masters Shanghai 2024,g2,us,duelist,84.86,76.62,78.95,87.90,79.93,78.70,false
-400,trent,Masters Shanghai 2024,g2,us,initiator,85.26,83.10,84.80,79.80,82.83,87.20,false
-401,JonahP,Masters Shanghai 2024,g2,ca,flex,85.06,83.10,89.80,81.60,83.10,87.60,false
-402,leaf,Masters Shanghai 2024,g2,us,sentinel,88.42,88.70,85.05,84.90,86.37,84.80,false
-403,Boo,Masters Shanghai 2024,heretics,lt,controller,86.34,85.78,85.70,77.10,82.60,95.70,false
-404,paTiTek,Masters Shanghai 2024,heretics,pl,initiator,89.24,84.48,87.90,85.20,86.43,87.00,false
-405,Wo0t,Masters Shanghai 2024,heretics,tr,flex,95.12,90.44,90.95,92.40,88.33,81.90,false
-406,RieNs,Masters Shanghai 2024,heretics,tr,initiator,88.62,84.94,89.95,86.90,87.00,92.90,false
-407,benjyfishy,Masters Shanghai 2024,heretics,england,sentinel,90.70,83.90,87.90,87.50,88.87,88.80,false
-408,Munchkin,Masters Shanghai 2024,geng,kr,flex,91.00,86.80,89.80,90.20,89.07,96.30,false
-409,Meteor,Masters Shanghai 2024,geng,kr,sentinel,100,93.4,90.4,92.15,97.27,92.6,false
-410,Lakia,Masters Shanghai 2024,geng,kr,initiator,88.00,83.20,82.90,86.80,84.80,95.40,false
-411,t3xture,Masters Shanghai 2024,geng,kr,duelist,100,87.34,98.05,96.10,99.40,90.90,false
-412,Karon,Masters Shanghai 2024,geng,kr,controller,94.56,90.12,90.75,90.30,91.80,94.50,false
+368,stax,Masters Bangkok 2025,t1,kr,initiator,90.76,91.4,87.6,80.65,84.97,98.9,true
+369,Meteor,Masters Bangkok 2025,t1,kr,sentinel,100,93.4,90.4,82.15,97.27,92.6,true
+370,Sylvan,Masters Bangkok 2025,t1,kr,controller,95.94,82.6,90.4,82.65,87.03,96.1,true
+371,BuZz,Masters Bangkok 2025,t1,kr,duelist,98.42,80.8,90.8,94.95,89.6,88.4,true
+372,iZu,Masters Bangkok 2025,t1,kr,flex,97.4,84.0,85.6,81.55,86.7,95.7,true
+373,jonhqt,Champions 2024,sentinels,ma,sentinel,83.98,79.26,80.50,85.60,80.90,84.70,true
+374,Sacy,Champions 2024,sentinels,us,initiator,79.84,74.48,76.95,79.40,76.43,93.10,true
+375,TenZ,Champions 2024,sentinels,us,controller,86.84,84.08,76.00,86.80,82.10,77.70,true
+376,Zellsis,Champions 2024,sentinels,us,flex,75.60,72.00,79.80,82.20,81.10,85.90,true
+377,zekken,Champions 2024,sentinels,us,duelist,88.26,84.02,87.90,89.80,86.63,75.60,true
+378,Mazino,Champions 2024,leviatan,cl,flex,86.92,73.44,84.95,79.50,81.63,86.10,true
+379,aspas,Champions 2024,leviatan,br,duelist,94.88,79.16,90.75,88.00,91.77,84.00,true
+380,tex,Champions 2024,leviatan,de,sentinel,86.28,79.56,86.00,78.40,84.00,83.90,true
+381,C0M,Champions 2024,leviatan,us,initiator,78.82,69.54,71.70,74.70,76.40,85.60,true
+382,kiNgg,Champions 2024,leviatan,cl,controller,85.70,83.70,84.65,79.70,85.30,89.10,true
+383,Boo,Champions 2024,heretics,lt,controller,86.34,85.78,85.70,77.10,82.60,92.70,true
+384,MiniBoo,Champions 2024,heretics,lt,duelist,90.52,81.64,88.10,91.00,89.60,78.80,true
+385,Wo0t,Champions 2024,heretics,tr,flex,93.12,89.44,86.95,88.40,84.33,81.90,true
+386,RieNs,Champions 2024,heretics,tr,initiator,86.62,82.94,86.95,86.90,85.00,88.90,true
+387,benjyfishy,Champions 2024,heretics,england,sentinel,89.70,81.90,87.90,85.50,88.87,88.80,true
+388,nobody,Champions 2024,edg,cn,initiator,87.22,93.18,89.80,82.30,80.30,99.00,true
+389,ZmjjKK,Champions 2024,edg,cn,duelist,105.62,94.34,98.20,97.50,98.10,89.90,true
+390,CHICHOO,Champions 2024,edg,cn,sentinel,95.48,98.76,92.65,92.60,93.37,95.90,true
+391,Smoggy,Champions 2024,edg,cn,controller,93.52,96.64,90.90,87.00,90.03,94.40,true
+392,S1Mon,Champions 2024,edg,cn,flex,88.14,93.18,88.85,91.80,83.10,90.80,true
+393,Boostio,Masters Shanghai 2024,100t,us,sentinel,78.68,79.16,74.10,75.10,83.23,91.80,true
+394,zander,Masters Shanghai 2024,100t,ca,controller,82.94,73.18,80.75,78.90,79.60,90.80,true
+395,Cryo,Masters Shanghai 2024,100t,us,duelist,87.30,81.10,82.80,86.50,84.47,79.30,true
+396,eeiu,Masters Shanghai 2024,100t,ca,initiator,80.98,77.06,78.65,80.80,81.07,83.10,true
+397,Asuna,Masters Shanghai 2024,100t,us,flex,83.18,74.86,79.15,88.40,78.03,76.50,true
+398,valyn,Masters Shanghai 2024,g2,us,controller,85.86,78.10,80.85,82.50,80.87,93.30,true
+399,icy,Masters Shanghai 2024,g2,us,duelist,84.86,76.62,78.95,87.90,79.93,78.70,true
+400,trent,Masters Shanghai 2024,g2,us,initiator,85.26,83.10,84.80,79.80,82.83,87.20,true
+401,JonahP,Masters Shanghai 2024,g2,ca,flex,85.06,83.10,89.80,81.60,83.10,87.60,true
+402,leaf,Masters Shanghai 2024,g2,us,sentinel,88.42,88.70,85.05,84.90,86.37,84.80,true
+403,Boo,Masters Shanghai 2024,heretics,lt,controller,86.34,85.78,85.70,77.10,82.60,95.70,true
+404,paTiTek,Masters Shanghai 2024,heretics,pl,initiator,89.24,84.48,87.90,85.20,86.43,87.00,true
+405,Wo0t,Masters Shanghai 2024,heretics,tr,flex,95.12,90.44,90.95,92.40,88.33,81.90,true
+406,RieNs,Masters Shanghai 2024,heretics,tr,initiator,88.62,84.94,89.95,86.90,87.00,92.90,true
+407,benjyfishy,Masters Shanghai 2024,heretics,england,sentinel,90.70,83.90,87.90,87.50,88.87,88.80,true
+408,Munchkin,Masters Shanghai 2024,geng,kr,flex,91.00,86.80,89.80,90.20,89.07,96.30,true
+409,Meteor,Masters Shanghai 2024,geng,kr,sentinel,100,93.4,90.4,92.15,97.27,92.6,true
+410,Lakia,Masters Shanghai 2024,geng,kr,initiator,88.00,83.20,82.90,86.80,84.80,95.40,true
+411,t3xture,Masters Shanghai 2024,geng,kr,duelist,100,87.34,98.05,96.10,99.40,90.90,true
+412,Karon,Masters Shanghai 2024,geng,kr,controller,94.56,90.12,90.75,90.30,91.80,94.50,true
 413,P0PPIN,BASE,envy,us,initiator,64.40,62.40,67.90,57.90,64.63,65.10,true
 414,canezerra,BASE,envy,us,flex,70.78,75.66,61.05,72.80,66.97,53.80,true
 415,Eggster,BASE,envy,us,duelist,69.66,66.82,59.85,75.80,60.47,51.60,true
@@ -430,3 +430,23 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 429,Shazeon,BASE,alternate,de,flex,58.00,72.80,56.00,67.70,64.93,68.40,true
 430,prayy,BASE,alternate,eu,duelist,64.66,77.22,71.25,65.40,62.13,56.70,true
 431,stravos,BASE,alternate,de,flex,59.52,79.04,54.10,59.60,58.73,62.80,true
+432,cauanzin,Masters Madrid 2024,loud,br,initiator,82.54,83.18,79.00,81.60,79.87,78.80,true
+433,Less,Masters Madrid 2024,loud,br,sentinel,92.46,81.62,94.70,80.10,82.23,89.90,true
+434,tuyz,Masters Madrid 2024,loud,br,controller,86.28,80.16,82.85,78.30,80.47,80.50,true
+435,Saadhak,Masters Madrid 2024,loud,ar,flex,83.02,71.74,76.80,83.40,78.00,97.30,true
+436,qck,Masters Madrid 2024,loud,br,duelist,80.22,74.74,76.00,81.80,78.33,73.30,true
+437,Monyet,Masters Madrid 2024,prx,id,flex,85.70,83.70,84.10,88.70,88.73,81.10,true
+438,f0rsakeN,Masters Madrid 2024,prx,id,flex,89.14,80.98,85.05,87.50,86.47,94.00,true
+439,d4v41,Masters Madrid 2024,prx,my,controller,87.72,81.24,85.75,88.80,81.53,88.40,true
+440,something,Masters Madrid 2024,prx,ru,flex,92.10,86.70,87.90,91.50,90.07,86.30,true
+441,mindfreak,Masters Madrid 2024,prx,id,sentinel,86.62,82.54,82.65,83.80,80.20,96.60,true
+442,Munchkin,Masters Madrid 2024,geng,kr,flex,88.00,84.80,86.80,90.20,89.07,86.30,true
+443,Meteor,Masters Madrid 2024,geng,kr,sentinel,90,90.4,90.4,90.15,87.27,88.6,true
+444,Lakia,Masters Madrid 2024,geng,kr,initiator,82.00,77.20,78.90,78.80,80.80,90.40,true
+445,t3xture,Masters Madrid 2024,geng,kr,duelist,94,87.34,88.05,88.10,89.40,85.90,true
+446,Karon,Masters Madrid 2024,geng,kr,controller,92.56,86.12,88.75,84.30,87.80,89.50,true
+447,jonhqt,Masters Madrid 2024,sentinels,ma,sentinel,93.98,89.26,90.50,93.60,90.90,94.70,true
+448,Sacy,Masters Madrid 2024,sentinels,us,initiator,89.84,84.48,86.95,89.40,86.43,100,true
+449,TenZ,Masters Madrid 2024,sentinels,us,controller,96.84,92.08,94.00,92.80,92.10,90.70,true
+450,Zellsis,Masters Madrid 2024,sentinels,us,flex,90.60,82.00,89.80,92.20,91.10,95.90,true
+451,zekken,Masters Madrid 2024,sentinels,us,duelist,100,94.02,97.90,96.80,99.63,90.60,true
