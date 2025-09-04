@@ -372,7 +372,7 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 371,BuZz,Masters Bangkok 2025,t1,kr,duelist,98.42,80.8,90.8,94.95,89.6,88.4,true
 372,iZu,Masters Bangkok 2025,t1,kr,flex,97.4,84.0,85.6,81.55,86.7,95.7,true
 373,jonhqt,Champions 2024,sentinels,ma,sentinel,83.98,79.26,80.50,85.60,80.90,84.70,true
-374,Sacy,Champions 2024,sentinels,us,initiator,79.84,74.48,76.95,79.40,76.43,93.10,true
+374,Sacy,Champions 2024,sentinels,br,initiator,79.84,74.48,76.95,79.40,76.43,93.10,true
 375,TenZ,Champions 2024,sentinels,us,controller,86.84,84.08,76.00,86.80,82.10,77.70,true
 376,Zellsis,Champions 2024,sentinels,us,flex,75.60,72.00,79.80,82.20,81.10,85.90,true
 377,zekken,Champions 2024,sentinels,us,duelist,88.26,84.02,87.90,89.80,86.63,75.60,true
@@ -446,7 +446,7 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 445,t3xture,Masters Madrid 2024,geng,kr,duelist,94,87.34,88.05,88.10,89.40,85.90,true
 446,Karon,Masters Madrid 2024,geng,kr,controller,92.56,86.12,88.75,84.30,87.80,89.50,true
 447,jonhqt,Masters Madrid 2024,sentinels,ma,sentinel,93.98,89.26,90.50,93.60,90.90,94.70,true
-448,Sacy,Masters Madrid 2024,sentinels,us,initiator,89.84,84.48,86.95,89.40,86.43,100,true
+448,Sacy,Masters Madrid 2024,sentinels,br,initiator,89.84,84.48,86.95,89.40,86.43,100,true
 449,TenZ,Masters Madrid 2024,sentinels,us,controller,96.84,92.08,94.00,92.80,92.10,90.70,true
 450,Zellsis,Masters Madrid 2024,sentinels,us,flex,90.60,82.00,89.80,92.20,91.10,95.90,true
 451,zekken,Masters Madrid 2024,sentinels,us,duelist,100,94.02,97.90,96.80,99.63,90.60,true
