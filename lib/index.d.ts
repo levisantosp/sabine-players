@@ -13,7 +13,7 @@ export type Player = {
   gamesense: number
   purchaseable: boolean
   ovr?: number
-  price?: number
+  price?: bigint
 }
 export declare const getPlayers: <T extends Player[]>() => T
 export declare const getPlayer: (id: string | number) => Player | undefined
