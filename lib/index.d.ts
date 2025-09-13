@@ -17,5 +17,5 @@ export type Player = {
 }
 export declare const getPlayers: <T extends Player[]>() => T
 export declare const getPlayer: (id: string | number) => Player | undefined
-export declare const calcPlayerPrice: (player: Player, devalue?: boolean) => number
+export declare const calcPlayerPrice: (player: Player, devalue?: boolean) => bigint
 export declare const calcPlayerOvr: (player: Player) => number
