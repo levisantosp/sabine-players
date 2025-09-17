@@ -12,10 +12,10 @@ export type Player = {
   ACS: number
   gamesense: number
   purchaseable: boolean
-  ovr?: number
-  price?: bigint
+  ovr: number
+  price: number
 }
 export declare const getPlayers: <T extends Player[]>() => T
 export declare const getPlayer: (id: string | number) => Player | undefined
-export declare const calcPlayerPrice: (player: Player, devalue?: boolean) => bigint
+export declare const calcPlayerPrice: (player: Player, devalue?: boolean) => number
 export declare const calcPlayerOvr: (player: Player) => number
