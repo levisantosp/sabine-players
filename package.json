@@ -1,11 +1,14 @@
 {
-  "name": "players",
+  "name": "@sabinelab/players",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
-    "test": "node --experimental-strip-types test.ts",
+    "test": "node test.ts",
     "lint": "eslint ."
   },
   "keywords": [],
