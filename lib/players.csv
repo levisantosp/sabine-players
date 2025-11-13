@@ -1,9 +1,9 @@
 id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,purchaseable
-1,valyn,BASE,g2,us,controller,75.86,68.10,78.85,49.50,70.87,85.30,true
-2,jawgemo,BASE,g2,kh,duelist,80.56,60.60,77.15,79.40,81.17,75.50,true
-3,trent,BASE,g2,us,initiator,75.26,83.10,79.80,49.80,72.83,79.20,true
-4,JonahP,BASE,g2,ca,flex,75.06,77.10,79.80,51.60,69.10,84.60,true
-5,leaf,BASE,g2,us,sentinel,74.42,68.70,75.05,75.90,80.37,67.80,true
+1,valyn,Base Card,g2,us,controller,75.86,68.10,78.85,49.50,70.87,85.30,true
+2,jawgemo,Base Card,g2,kh,duelist,80.56,60.60,77.15,79.40,81.17,75.50,true
+3,trent,Base Card,g2,us,initiator,75.26,83.10,79.80,49.80,72.83,79.20,true
+4,JonahP,Base Card,no_team,ca,flex,75.06,77.10,79.80,51.60,69.10,84.60,true
+5,leaf,Base Card,g2,us,sentinel,74.42,68.70,75.05,75.90,80.37,67.80,true
 6,artzin,BASE,mibr,br,flex,71.68,70.80,65.25,63.90,70.37,78.40,true
 7,xenom,BASE,mibr,br,controller,72.88,76.96,69.80,58.20,68.40,72.00,true
 8,cortezia,BASE,mibr,br,sentinel,84.40,78.00,76.95,49.80,73.00,70.40,true
