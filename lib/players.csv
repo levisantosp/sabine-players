@@ -4,11 +4,11 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 3,trent,Base Card,g2,us,initiator,75.26,83.10,79.80,49.80,72.83,79.20,true
 4,JonahP,Base Card,no_team,ca,flex,75.06,77.10,79.80,51.60,69.10,84.60,true
 5,leaf,Base Card,g2,us,sentinel,74.42,68.70,75.05,75.90,80.37,67.80,true
-6,artzin,BASE,mibr,br,flex,71.68,70.80,65.25,63.90,70.37,78.40,true
-7,xenom,BASE,mibr,br,controller,72.88,76.96,69.80,58.20,68.40,72.00,true
-8,cortezia,BASE,mibr,br,sentinel,84.40,78.00,76.95,49.80,73.00,70.40,true
-9,Verno,BASE,mibr,us,initiator,80.08,63.96,77.40,64.10,71.27,82.50,true
-10,aspas,BASE,mibr,br,duelist,90.88,69.16,87.75,82.00,88.77,80.00,true
+6,artzin,Base Card,mibr,br,flex,71.68,70.80,65.25,63.90,70.37,78.40,true
+7,xenom,Base Card,mibr,br,controller,72.88,76.96,69.80,58.20,68.40,72.00,true
+8,cortezia,Base Card,mibr,br,sentinel,84.40,78.00,76.95,49.80,73.00,70.40,true
+9,Verno,Base Card,mibr,us,initiator,80.08,63.96,77.40,64.10,71.27,82.50,true
+10,aspas,Base Card,mibr,br,duelist,90.88,69.16,87.75,82.00,88.77,80.00,true
 11,mitch,BASE,cloud9,us,initiator,73.42,51.74,70.75,70.70,66.77,85.80,true
 12,Xeppaa,BASE,cloud9,us,flex,78.28,58.76,76.00,66.20,70.63,77.00,true
 13,v1c,BASE,cloud9,us,controller,78.68,69.16,76.75,50.10,73.60,77.90,true
