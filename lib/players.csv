@@ -9,26 +9,26 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 8,cortezia,Base Card,mibr,br,sentinel,84.40,78.00,76.95,49.80,73.00,70.40,true
 9,Verno,Base Card,mibr,us,initiator,80.08,63.96,77.40,64.10,71.27,82.50,true
 10,aspas,Base Card,mibr,br,duelist,90.88,69.16,87.75,82.00,88.77,80.00,true
-11,mitch,BASE,cloud9,us,initiator,73.42,51.74,70.75,70.70,66.77,85.80,true
-12,Xeppaa,BASE,cloud9,us,flex,78.28,58.76,76.00,66.20,70.63,77.00,true
-13,v1c,BASE,cloud9,us,controller,78.68,69.16,76.75,50.10,73.60,77.90,true
-14,neT,BASE,cloud9,us,sentinel,83.12,79.04,77.90,61.30,66.90,70.00,true
-15,OXY,BASE,cloud9,us,duelist,87.86,69.42,71.25,87.60,86.33,59.70,true
-16,Ethan,BASE,nrg,us,flex,78.28,58.76,72.85,64.70,67.47,82.50,true
-17,s0m,BASE,nrg,us,sentinel,80.74,65.78,78.85,59.40,73.07,74.40,true
-18,brawk,BASE,nrg,us,initiator,75.16,57.72,73.60,69.90,69.97,70.60,true
-19,mada,BASE,nrg,ca,duelist,77.08,63.96,75.05,75.60,79.20,69.90,true
-20,skuba,BASE,nrg,us,controller,79.02,72.54,76.65,64.10,70.30,69.80,true
-21,kiNgg,BASE,leviatan,cl,controller,75.70,63.70,82.65,69.70,75.30,83.10,true
-22,tex,BASE,leviatan,de,sentinel,86.28,79.56,76.00,68.40,74.00,63.90,true
-23,Okeanos,BASE,leviatan,vn,flex,71.98,70.46,72.20,75.90,68.73,64.50,true
-24,Sato,BASE,leviatan,br,duelist,88.22,82.94,76.00,80.10,81.93,64.30,true
-25,C0M,BASE,leviatan,us,initiator,68.82,59.54,61.70,64.70,66.40,75.60,true
-26,heat,BASE,furia,br,sentinel,79.44,80.08,76.00,70.50,77.63,59.10,true
-27,Palla,BASE,furia,br,duelist,78.52,71.24,67.45,81.90,70.73,54.80,true
-28,Urango,BASE,furia,br,flex,65.30,68.90,59.25,60.70,66.70,62.00,true
-29,tuyz,BASE,furia,br,controller,76.28,69.16,78.85,54.30,67.47,76.50,true
-30,basic,BASE,furia,it,initiator,71.14,76.18,72.65,59.30,67.90,66.30,true
+11,mitch,Base Card,cloud9,us,initiator,73.42,51.74,70.75,70.70,66.77,85.80,true
+12,Xeppaa,Base Card,cloud9,us,flex,78.28,58.76,76.00,66.20,70.63,77.00,true
+13,v1c,Base Card,cloud9,us,controller,78.68,69.16,76.75,50.10,73.60,77.90,true
+14,neT,Base Card,cloud9,us,sentinel,83.12,79.04,77.90,61.30,66.90,70.00,true
+15,OXY,Base Card,cloud9,us,duelist,87.86,69.42,71.25,87.60,86.33,59.70,true
+16,Ethan,Base Card,nrg,us,flex,78.28,58.76,72.85,64.70,67.47,82.50,true
+17,s0m,Base Card,nrg,us,sentinel,80.74,65.78,78.85,59.40,73.07,74.40,true
+18,brawk,Base Card,nrg,us,initiator,75.16,57.72,73.60,69.90,69.97,70.60,true
+19,mada,Base Card,nrg,ca,duelist,77.08,63.96,75.05,75.60,79.20,69.90,true
+20,skuba,Base Card,nrg,us,controller,79.02,72.54,76.65,64.10,70.30,69.80,true
+21,kiNgg,Base Card,leviatan,cl,controller,75.70,63.70,82.65,69.70,75.30,83.10,true
+22,tex,Base Card,leviatan,de,sentinel,86.28,79.56,76.00,68.40,74.00,63.90,true
+23,Okeanos,Base Card,leviatan,vn,flex,71.98,70.46,72.20,75.90,68.73,64.50,true
+24,Sato,Base Card,leviatan,br,duelist,88.22,82.94,76.00,80.10,81.93,64.30,true
+25,C0M,Base Card,leviatan,us,initiator,68.82,59.54,61.70,64.70,66.40,75.60,true
+26,heat,Base Card,furia,br,sentinel,79.44,80.08,76.00,70.50,77.63,59.10,true
+27,Palla,Base Card,furia,br,duelist,78.52,71.24,67.45,81.90,70.73,54.80,true
+28,Urango,Base Card,furia,br,flex,65.30,68.90,59.25,60.70,66.70,62.00,true
+29,tuyz,Base Card,furia,br,controller,76.28,69.16,78.85,54.30,67.47,76.50,true
+30,basic,Base Card,furia,it,initiator,71.14,76.18,72.65,59.30,67.90,66.30,true
 31,keznit,BASE,kru,cl,flex,76.42,59.54,74.10,83.40,85.83,69.60,true
 32,Mazino,BASE,kru,cl,flex,73.92,63.44,76.95,59.50,71.63,86.10,true
 33,adverso,BASE,no_team,cl,initiator,69.04,59.28,69.80,68.00,67.70,79.50,true
