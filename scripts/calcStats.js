@@ -1,5 +1,3 @@
-import clipboard from 'clipboardy'
-
 /**
  * @param {string} stats 
  */
@@ -21,8 +19,6 @@ export default function(stats) {
   const gamesense = (APR * 150) + (FBSR * 0.6)
 
   const attributes = `,${aim.toFixed(2)},${hs.toFixed(2)},${mov.toFixed(2)},${aggression.toFixed(2)},${acs.toFixed(2)},${gamesense.toFixed(2)},true`
-
-  clipboard.writeSync(attributes)
   
-  return `copied to clipboard\n,${aim.toFixed(2)},${hs.toFixed(2)},${mov.toFixed(2)},${aggression.toFixed(2)},${acs.toFixed(2)},${gamesense.toFixed(2)},true`
+  return attributes
 }
