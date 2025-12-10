@@ -1,6 +1,6 @@
 {
   "name": "@sabinelab/players",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -17,7 +17,7 @@
   "type": "module",
   "devDependencies": {
     "@eslint/js": "^9.39.1",
-    "@types/node": "^24.10.1",
+    "@types/node": "^24.10.2",
     "eslint": "^9.39.1",
     "globals": "^16.5.0",
     "typescript": "^5.9.3",
