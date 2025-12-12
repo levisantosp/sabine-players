@@ -411,11 +411,11 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 410,Lakia,Masters Shanghai 2024,geng,kr,initiator,88.00,83.20,82.90,86.80,84.80,95.40,true
 411,t3xture,Masters Shanghai 2024,geng,kr,duelist,100,87.34,98.05,96.10,99.40,90.90,true
 412,Karon,Masters Shanghai 2024,geng,kr,controller,94.56,90.12,90.75,90.30,91.80,94.50,true
-413,P0PPIN,Base Card,envy,us,initiator,64.40,62.40,67.90,57.90,64.63,65.10,true
-414,canezerra,Base Card,envy,us,flex,70.78,75.66,61.05,72.80,66.97,53.80,true
-415,Eggster,Base Card,envy,us,duelist,69.66,66.82,59.85,75.80,60.47,51.60,true
-416,Inspire,Base Card,envy,us,sentinel,69.82,77.74,66.45,66.50,60.57,58.70,true
-417,ion2x,Base Card,envy,us,controller,64.56,75.92,64.10,66.00,55.90,60.60,true
+413,P0PPIN,Base Card,envy,us,initiator,74.40,67.40,70.90,67.90,71.63,75.10,true
+414,canezerra,Base Card,envy,us,flex,80.78,75.66,71.05,72.80,76.97,63.80,true
+415,Eggster,Base Card,envy,us,duelist,76.66,70.82,69.85,75.80,72.47,58.60,true
+416,Inspire,Base Card,envy,us,sentinel,75.82,77.74,70.45,68.50,70.57,68.70,true
+417,ion2x,Base Card,envy,us,controller,74.56,75.92,71.10,66.00,65.90,60.60,true
 418,Dark3st,Base Card,qor,us,flex,65.70,68.90,58.85,65.50,62.47,62.10,true
 419,nerve,Base Card,furia,us,initiator,63.94,65.78,59.80,62.30,57.57,57.30,true
 420,Logan,Base Card,qor,us,sentinel,67.92,58.24,60.90,62.70,59.20,60.50,true
