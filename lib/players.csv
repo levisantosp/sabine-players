@@ -66,8 +66,8 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 65,Alfajer,Base Card,fnatic,tr,sentinel,87.82,77.74,78.85,77.50,79.67,72.70,true
 66,Leo,Base Card,no_team,se,initiator,73.30,58.50,76.45,68.60,76.83,71.80,true
 67,Boo,Base Card,heretics,lt,controller,81.34,78.78,81.70,47.10,62.60,83.70,true
-68,MiniBoo,Base Card,no_team,lt,duelist,85.52,81.64,74.10,81.00,75.60,58.80,true
-69,Wo0t,Base Card,heretics,tr,flex,83.12,89.44,76.95,72.40,74.33,71.90,true
+68,MiniBoo,Base Card,tl,lt,duelist,75.52,81.64,74.10,81.00,75.60,68.80,true
+69,Wo0t,Base Card,heretics,tr,duelist,83.12,79.44,76.95,72.40,74.33,71.90,true
 70,RieNs,Base Card,heretics,tr,initiator,76.62,82.94,76.95,61.90,70.00,78.90,true
 71,benjyfishy,Base Card,heretics,england,sentinel,86.70,81.90,77.90,75.50,68.87,68.80,true
 72,nAts,Base Card,liquid,ru,sentinel,83.26,74.62,80.75,73.70,74.00,85.30,true
@@ -207,7 +207,7 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 206,DH,Base Card,t1,kr,sentinel,64.22,88.14,64.10,69.90,78.43,72.90,true
 207,iZu,Base Card,t1,kr,flex,79.04,69.68,77.90,79.10,72.60,75.70,true
 208,carpe,Base Card,t1,kr,controller,70.80,67.60,74.10,59.00,57.17,80.50,true
-209,PatMen,Base Card,prx,ph,initiator,80.00,83.20,74.10,70.30,76.60,67.40,true
+209,PatMen,Base Card,ge,ph,initiator,80.00,83.20,74.10,70.30,76.60,67.40,true
 210,Jinggg,Base Card,prx,sg,duelist,87.22,51.74,85.05,88.80,83.23,62.60,true
 211,f0rsakeN,Base Card,prx,id,flex,83.14,70.98,75.05,83.50,81.47,91.00,true
 212,d4v41,Base Card,prx,my,sentinel,79.72,71.24,80.75,72.80,71.53,80.40,true
@@ -307,7 +307,7 @@ id,name,collection,team,country,role,aim,HS,movement,aggression,ACS,gamesense,pu
 306,Nizzy,Base Card,no_team,vn,flex,70.70,81.90,68.85,67.50,80.37,75.00,true
 307,Zesbeew,Base Card,no_team,sg,controller,72.80,57.20,77.90,66.90,77.83,68.10,true
 308,KellyS,Base Card,secret,ph,sentinel,69.52,53.04,72.20,69.60,80.13,77.70,true
-309,Dep,Base Card,zeta,jp,sentinel,78.24,64.48,75.05,70.20,78.90,62.40,true
+309,Dep,Base Card,no_team,jp,sentinel,78.24,64.48,75.05,70.20,78.90,62.40,true
 310,Kess,Base Card,no_team,kr,flex,73.56,68.12,67.90,66.80,71.87,76.50,true
 311,Dantedeu5,Base Card,kru,ar,duelist,73.90,71.50,65.05,82.80,82.17,61.10,true
 312,trexx,Base Card,no_team,ru,initiator,76.10,48.10,70.75,60.60,79.97,74.60,true
